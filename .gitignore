@@ -131,4 +131,5 @@ dmypy.json
 .csv
 .xlsx
 data/
-result/w2v_modle/
+result/w2v_model/
+result/
