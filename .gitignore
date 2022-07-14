@@ -133,3 +133,5 @@ dmypy.json
 data/
 result/w2v_model/
 result/
+code/Apriori/program_graph/
+code/Apriori/result/
